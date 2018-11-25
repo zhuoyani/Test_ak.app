@@ -1,0 +1,8 @@
+ak_login_test001:
+  username: "18600001111"
+  password: "1234567"
+  expect_toast: "密码错误"
+ak_login_test002:
+  username: ""
+  password: "234567"
+  expect_toast: "请输入手机号！"
